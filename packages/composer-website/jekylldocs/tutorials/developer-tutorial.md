@@ -173,7 +173,7 @@ Deploying a business network to the {{site.data.conrefs.hlf_full}} requires the 
 
     <code-block type="commands" sub-type="cli" identifier="network-install" >
 
-        composer network install --card PeerAdmin@hlfv1 --archiveFile tutorial-network@0.0.1.bna
+        composer network install --card PeerAdmin@hlfv1 --archiveFile test-network@0.0.1.bna
 
     </code-block>
 
